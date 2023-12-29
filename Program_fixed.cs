@@ -19,7 +19,7 @@ namespace ConsoleApp7
         static int gameBoardWidth = 53;
         static int gameBoardHeight = 23;
 
-        static int[] wallLenghts = { 3, 5, 7 };
+        static int[] wallLenghts = { 3, 7, 11 };
         static int[] difficultyStartLife = { 7, 5, 1 };
         static string[] difficulties = { "easy", "medium", "hard" };
         const int wallCount = 20;
